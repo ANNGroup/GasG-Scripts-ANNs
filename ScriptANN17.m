@@ -13,7 +13,7 @@
 % Programming language: MATLAB
 % Programming file size: 38 kB with 257 lines of code
 %The MIT License (MIT)
-%Copyright (c) 2018 D. Pérez-Zárate,	E.	Santoyo,	A.	Acevedo-Anicasio,	C.	García-López,	L.	Díaz-González
+%Copyright (c) 2018 D. Pérez-Zárate, E. Santoyo, A. Acevedo-Anicasio, C. García-López, L. Díaz-González
 
 clear all
 close all

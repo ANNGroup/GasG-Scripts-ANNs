@@ -11,13 +11,15 @@
 % 4 GB, and  a Hard drive 500 GB
 % Software requirements: Matlab for Windows v. R2017b (MathWorks, 2017)
 % Programming language: MATLAB
-% Programming file size: 16 kB with 277 lines of code
+% Programming file size: 16 kB with 279 lines of code
+%The MIT License (MIT)
+%Copyright (c) 2018 D. Pérez-Zárate, E. Santoyo, A. Acevedo-Anicasio, C. García-López, L. Díaz-González
 
 clear all
 close all
 clc
 
-%target: BHT (�C) 
+%target: BHT (°C) 
 t = [212	262	315	300	287	302	292	217	260	248	238	301	352	250	240	240	340	311	250	270	304	296	327	329	240	250	277	340	330	250	250	240	262	302	320	267	276	281	327	281	330	271	204	270	260	240	260	240	284	319	356	278	314	300	274	265	267	324	250	250	275	182	215	240	240	250	260	350	270	330	300	338	240	343	325	300	296	322	287	271	260	230	240	250	240	260	293	240	267	306	250	280	325	279	250	278	307];
     
 %inputs: ln(H2S/CO2), ln(CH4/CO2), ln(H2/CO2) mmol/mol

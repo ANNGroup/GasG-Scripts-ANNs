@@ -11,7 +11,8 @@
 % 4 GB, and  a Hard drive 500 GB
 % Software requirements: Matlab for Windows v. R2017b (MathWorks, 2017)
 % Programming language: MATLAB
-% Programming file size: 38 kB with 257 lines of code
+% Programming file size: 38 kB with 258 lines of code
+
 %The MIT License (MIT)
 %Copyright (c) 2018 D. Pérez-Zárate, E. Santoyo, A. Acevedo-Anicasio, C. García-López, L. Díaz-González
 
@@ -55,7 +56,7 @@ trainP = pn(:,aa); trainT = tn(:,aa);
 %initial parameters
 hiddenNeurons = 1;
 maxHiddenNeurons = 1;
-iterations = 10;
+iterations = 1000;
 targetIdeal = 0.99;
 flagHiddenNeurons = 1;
 learningRate = 0.001;

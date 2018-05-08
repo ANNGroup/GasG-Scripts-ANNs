@@ -11,7 +11,8 @@
 % 4 GB, and  a Hard drive 500 GB
 % Software requirements: Matlab for Windows v. R2017b (MathWorks, 2017)
 % Programming language: MATLAB
-% Programming file size: 44 kB with 261 lines of code
+% Programming file size: 44 kB with 262 lines of code
+
 %The MIT License (MIT)
 %Copyright (c) 2018 D. Pérez-Zárate, E. Santoyo, A. Acevedo-Anicasio, C. García-López, L. Díaz-González
 

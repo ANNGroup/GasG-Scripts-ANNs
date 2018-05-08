@@ -55,7 +55,7 @@ trainP = pn(:,aa); trainT = tn(:,aa);
 
 %initial parameters
 hiddenNeurons = 1;
-maxHiddenNeurons = 1;
+maxHiddenNeurons = 30;
 iterations = 1000;
 targetIdeal = 0.99;
 flagHiddenNeurons = 1;

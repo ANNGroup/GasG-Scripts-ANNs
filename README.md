@@ -1,5 +1,5 @@
 # GasG-Scripts-ANNs
-Six codes or scripts written in Matlab for the training of several Artificial Neural Networks (ANN) and to be able to estimate the bottom hole temperature of geothermal systems using the chemical composition of the gas-phase of geothermal fluids. A simple and quick user guide for training the ANN simulations was include to facilitate its use and application.
+Six codes or scripts written in Matlab for the training of several Artificial Neural Networks (ANN) and to be able to estimate the bottom hole temperature of geothermal systems using the chemical composition of the gas-phase of geothermal fluids. A simple and quick user guide for training the ANN simulations was include to facilitate its use and application like supplementary material.
 
 Release Notes:
 

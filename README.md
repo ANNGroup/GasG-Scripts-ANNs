@@ -1,8 +1,6 @@
 # GasG-Scripts-ANNs
-Six codes or scripts written in Matlab for the training of several Artificial Neural Networks (ANN) and to be able to estimate the bottom hole temperature of geothermal systems using the chemical composition of the gas-phase of geothermal fluids. A simple and quick user guide for training the ANN simulations was include to facilitate its use and application like supplementary material.
+Six numerical codes or scripts written in Matlab for the training of several Artificial Neural Networks (ANN) were used to estimate the bottomhole temperatures (BHT) of production geothermal wells. These scripts use the chemical composition of the gas-phase of geothermal fluids as main input data whereas BHT measurements were used as a target variable (BHTm) to be predicted by the ANN (BHTann). A quick User’s Manual for the training simulation of ANN architectures was also included in the GitHub repository to facilitate their use and application.
 
 Release Notes:
-
-To start training artificial neural network with our codes or scripts, open Matlab and any code. Then run "main window" of editor in Matlab.
-
-The training of de neuronal network will finish when all iterations are done, for example 1000 iterations in ScriptANN17. At finish, a report is generated in txt file with the best architectures as a result of the training.
+To start the training process of the ANN architectures, open Matlab software and the select any of the six codes or scripts. To execute the process, simply click on the “Run” button located in the main framework of the Matlab editor.
+The training of ANN will finish when the maximum iterations have been achieved (e.g., 1,000 iterations for the ScriptANN17). To complete the training process, a detailed report of results is generated in txt file format together with the best ANN architectures.

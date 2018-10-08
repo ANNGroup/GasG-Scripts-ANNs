@@ -4,4 +4,4 @@ Six numerical codes or scripts written in Matlab for the training of several Art
 Release Notes:
 
 To start the training process of the ANN architectures, open Matlab software and the select any of the six codes or scripts. To execute the process, simply click on the “Run” button located in the main framework of the Matlab editor.
-The training of ANN will finish when the maximum iterations have been achieved (e.g., 1,000 iterations for the ScriptANN17). To complete the training process, a detailed report of results is generated in txt file format together with the best ANN architectures.
+The training of ANN will finish when the maximum iterations have been achieved (e.g., 100 iterations for the Script_ANN12). To complete the training process, a detailed report of results is generated in txt file format together with the best ANN architectures.

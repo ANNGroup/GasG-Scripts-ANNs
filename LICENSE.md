@@ -3,7 +3,7 @@ https://github.com/ANNGroup/GasG-Scripts-ANNs.git
 
 The MIT License (MIT)
 
-Copyright (c) 2018 D. Pérez-Zárate,	E.	Santoyo,	A.	Acevedo-Anicasio,	C.	García-López,	L.	Díaz-González
+Copyright (c) 2018 D. Pérez-Zárate,	E.	Santoyo,	A.	Acevedo-Anicasio,	L.	Díaz-González, C.	García-López
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
